@@ -10,10 +10,10 @@ This project focuses on analyzing and visualizing e-commerce data to generate ac
 - Git and GitHub (Version control and documentation)
 
 ## 📊 Key Metrics (KPIs)
-- **GMV (Gross Merchandise Value)**: R$ 14,227,775.76
-- **AOV (Average Order Value)**: R$ 1,821.66
-- **NPS Proxy (Customer Satisfaction)**: 61.99%
-- **On-time Delivery Rate**: 98.04%
+- **GMV (Gross Merchandise Value)**: R$ 2.150.913.197,52
+- **AOV (Average Order Value)**: R$ 238,58
+- **NPS Proxy (Customer Satisfaction)**: 70,68%
+- **On-time Delivery Rate**: 94,20%
 
 ## 🔍 Key Insights
 1. **Logistics Impact on Customer Satisfaction**:
@@ -64,11 +64,11 @@ Este projeto analisa e visualiza dados de e-commerce para gerar insights acioná
 - Looker Studio (Visualização do Dashboard)
 - Git e GitHub (Controle de versão e documentação)
 
-## 📊 Métricas Principais (KPIs)
-- **GMV (Gross Merchandise Value)**: R$ 14.227.775,76
-- **AOV (Valor Médio por Pedido)**: R$ 1.821,66
-- **NPS Proxy (Satisfação do Cliente)**: 61,99%
-- **Taxa de Entrega no Prazo**: 98,04%
+## 📊 Key Metrics (KPIs)
+- **GMV (Gross Merchandise Value)**: R$ 2.150.913.197,52
+- **AOV (Average Order Value)**: R$ 238,58
+- **NPS Proxy (Customer Satisfaction)**: 70,68%
+- **On-time Delivery Rate**: 94,20%
 
 ## 🔍 Insights Principais
 1. **Impacto Logístico na Satisfação do Cliente**:
